@@ -20,8 +20,14 @@
 - [**Catchlog**](https://catchlog.no), [**Divetools**](https://divetools.io) and [**Divelog**](https://divelog.no): tools for fishing and diving
 
 <p>
-  <img src="https://raw.githubusercontent.com/henrikogaard/rista/main/docs/screenshots/agent-review-light.png" width="49%" alt="Rísta">
-  <img src="https://raw.githubusercontent.com/henrikogaard/tidegauge/main/assets/screenshots/cpu-light.png" width="49%" alt="Tidegauge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henrikogaard/rista/main/docs/screenshots/agent-review-dark.png">
+    <img src="https://raw.githubusercontent.com/henrikogaard/rista/main/docs/screenshots/agent-review-light.png" width="49%" alt="Rísta">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henrikogaard/brev/main/docs/screenshots/macos-mail-dark.png">
+    <img src="https://raw.githubusercontent.com/henrikogaard/brev/main/docs/screenshots/macos-mail-light.png" width="49%" alt="Brev">
+  </picture>
 </p>
 
 ### Toolbox
