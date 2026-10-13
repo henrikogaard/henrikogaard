@@ -21,7 +21,7 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/henrikogaard/rista/main/docs/screenshots/agent-review-light.png" width="49%" alt="Rísta">
-  <img src="https://raw.githubusercontent.com/henrikogaard/linkrouter/main/demo/picker-light.png" width="49%" alt="LinkRouter">
+  <img src="https://raw.githubusercontent.com/henrikogaard/tidegauge/main/assets/screenshots/cpu-light.png" width="49%" alt="Tidegauge">
 </p>
 
 ### Toolbox
